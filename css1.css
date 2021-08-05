@@ -1,0 +1,12 @@
+h3{
+    color:green; font-family: 'Times New Roman', Times, serif; 
+    background-color: rgb(140, 214, 111);
+     border:bold ;
+}
+
+.light-blue{
+    background-color: skyblue;
+}
+.light-pink {
+    background-color : lightcoral;
+}
